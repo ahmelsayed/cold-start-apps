@@ -1,0 +1,6 @@
+.python_packages
+.vscode
+node_modules
+driver/dist
+local.settings.json
+__pycache__
